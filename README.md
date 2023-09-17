@@ -99,10 +99,3 @@ The script performs the following actions:
     ```
 
 ---
-
-## Running the Script
-
-Execute the script to initialize the Azure resources, publish the pipeline, and schedule it to run every minute.
-
-```bash
-python main.py
